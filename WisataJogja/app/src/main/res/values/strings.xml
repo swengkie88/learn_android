@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Wisata Jogja</string>
+    <string name="destination_name">Nama Destinasi</string>
+    <string name="detail">Detail</string>
+    <string name="about_dev">Tentang Pengembang</string>
+    <string name="activity_about">Activity About</string>
+    <string name="data_received">Data Diterima</string>
+    <string name="deskripsi_wisata">Deskripsi Wisata</string>
+    <string name="dev_name">Angki Pranamukti</string>
+    <string name="dev_email">angkiprana1987@gmail.com</string>
+    <string name="waktu">Waktu</string>
+    <string name="alamatnya">Alamat Wisata</string>
+    <string name="alamat">Alamat</string>
+</resources>
